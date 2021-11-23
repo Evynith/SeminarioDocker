@@ -28,3 +28,5 @@ docker-compose)
 ### Ejercicio 3 - Montar un volumen
 Modificar los ejercicios anteriores para que el proyecto no sea copiado dentro de la imágen
 construida sino que el código fuente sea mapeado de una carpeta local.
+
+[Validaciones](https://youtu.be/Amr9x0rFYpI)
